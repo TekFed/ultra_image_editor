@@ -1,7 +1,7 @@
-```markdown
+
 [![Python](https://img.shields.io/badge/python-3.8+-blue.svg)](https://www.python.org/)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-```
+
 # Ultra Image Editor
 
 A simple yet powerful desktop image editor built with **Python**, **Tkinter**, **Pillow (PIL)** and **OpenCV**.
@@ -131,3 +131,4 @@ Feel free to use, modify, distribute.
 Made with ❤️ in Python for quick local image editing experiments.
 
 Happy editing!
+
