@@ -2,10 +2,9 @@
 
 A simple yet powerful desktop image editor built with **Python**, **Tkinter**, **Pillow (PIL)** and **OpenCV**.
 
-https://github.com/yourusername/ultra-image-editor
+https://github.com/TekFed/ultra-image-editor
 
-![Screenshot of Ultra Image Editor](https://via.placeholder.com/1280x820/343a40/ffffff?text=Ultra+Image+Editor+Screenshot)  
-*(Replace this placeholder with a real screenshot of the app)*
+![Screenshot of Ultra Image Editor](screenshots/filters.png)
 
 ## Features
 
@@ -56,3 +55,4 @@ https://github.com/yourusername/ultra-image-editor
 
 ```bash
 pip install pillow opencv-python
+
