@@ -74,8 +74,8 @@ pip install pillow opencv-python
 1. Clone the repository
 
 ```bash
-git clone https://github.com/yourusername/ultra-image-editor.git
-cd ultra-image-editor
+git clone https://github.com/TekFed/ultra_image_editor.git
+cd ultra_image_editor
 ```
 
 2. Install dependencies
@@ -131,4 +131,5 @@ Feel free to use, modify, distribute.
 Made with ❤️ in Python for quick local image editing experiments.
 
 Happy editing!
+
 
